@@ -1,10 +1,11 @@
 import React from "react";
+import Header from "./screens/header/header";
 
 const App = () => {
 
   return(
     <>
-      <h1>Shoe Website</h1>
+      <Header />
     </>
   )
 }
