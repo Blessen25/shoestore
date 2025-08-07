@@ -1,0 +1,74 @@
+.headerparent {
+
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+.headerchild {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.registerdiv {
+
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+
+}
+
+.shoeLogo {
+
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+}
+
+.headeratag {
+
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    transition: all .7s;
+}
+
+.headeratag:hover {
+
+    color: rgb(0, 153, 255);
+}
+
+.togglebuttonswitch {
+
+    width: 100px;
+    padding: 4px;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    background-color: rgb(0, 153, 255);
+}
+
+.fa-cloud-sun {
+
+    color: rgb(255, 187, 0);
+}
+
+.toggleround {
+
+    padding: 5px;
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+ .registerdiv a {
+
+  display: flex;
+  align-items: center;
+ }

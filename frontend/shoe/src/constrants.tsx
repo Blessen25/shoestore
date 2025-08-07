@@ -1,0 +1,45 @@
+/* color pallete
+
+LIGHT SHADE
+
+
+text color : #669BBC ( LIGHT BLUEISH )
+text Hover : #003049 ( DARK BLUEISH )
+HEADER AND FOOTER background color : #FDF0D5 ( LIGHT WHITE )
+PRIMARY CARD COLOR : #780000 ( DARK RED )
+SECONDARY CARD COLOR : #C1121F ( LIGHT RED )
+
+DARK SHADE 
+
+TEXT COLOR : #FDF0D5
+TEXT HOVER : #C1121F
+HEADER AND FOOTER BACKGROUND CLR : #0C1821
+PRIMARY CARD COLOR : #1B2A41
+SECONDARY CARD COLOR : #324A5F
+
+FONT SIZES AND WIDTH ( 1500 PX ) :
+
+P,a etc : 16px
+
+h1,h2,h3 etc : 26px
+
+FONT SIZES AND WIDTH ( < 1100 PX if needed ) :
+
+P,a etc : 14px
+
+h1,h2,h3 etc : 22px
+
+FONT SIZES AND WIDTH ( < 762 PX ) :
+
+P,a etc : 12px
+
+h1,h2,h3 etc : 20px
+
+
+FONT SIZES AND WIDTH ( < 575 PX ) :
+
+P,a etc : 10px
+
+h1,h2,h3 etc : 18px
+
+*/
